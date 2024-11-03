@@ -1,2 +1,1 @@
-# Decryption
-Decrypt a Caesar Cypher encrypted message
+# Decryption - Decrypt a Caesar Cypher encrypted message
